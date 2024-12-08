@@ -1,0 +1,42 @@
+LEVEL 2
+SCORE 171
+FROG 35 20
+CARS 15
+CAR 1  39 14 2 6 0 2
+CAR 1  60 4 1 8 8 0
+CAR 1  56 8 3 8 8 0
+CAR 1  57 3 1 9 0 0
+CAR 1  37 14 3 9 0 0
+CAR 1  28 14 3 10 10 0
+CAR 1  41 3 3 7 0 0
+CAR 1  51 8 1 10 10 0
+CAR 1  59 3 3 8 8 0
+CAR 1  27 17 3 7 14 0
+CAR 1  30 8 1 5 10 0
+CAR 1  34 6 2 3 12 2
+CAR 1  44 4 2 13 0 2
+CAR 1  15 14 1 7 7 0
+CAR 1  37 10 1 7 14 0
+BOARD
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+O                                                                    O
+O                                                                    O
+O                                        K               X K         O
+O                                           J               X        O
+O OOOOOOOOO O O   O   O O OO  O O O OOOOOOO  OO  O      O     O   O OO
+O                                 J                                  O
+OO O     O    O    O           OO     O           O OO    O O   O   OO
+O                             X                    X    K            O
+O                                                                    O
+O                                    X                               O
+O  OO   O  O    O  O          OO     O    O  OO      O     O        OO
+O                                                         S          O
+O                                                                    O
+O              X            K        K J                             O
+O                                                                    O
+O                                                                    O
+O                          K                                         O
+O                                                                    O
+O                                                                    O
+O                                                                    O
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
